@@ -10,7 +10,8 @@ end
 
 
 def not_safe?(speed)
-	speed
+	speed = 50
+	
 end
 	
 
